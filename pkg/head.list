@@ -1,0 +1,7 @@
+%product iTerm2
+%copyright © 2013 by George Nachman & Bruce Ingalls.
+%vendor Bruce Ingalls
+%license LICENSE
+%readme README
+%description Improved console for Mac OS X, with tmux (inspired by screen)
+%version 1.0
